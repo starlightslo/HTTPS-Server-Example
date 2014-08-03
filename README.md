@@ -3,11 +3,10 @@ HTTPS-Server-Example
 
 It's a HTTPS Server example code using Node.js
 
-Before run:
-	npm install express
-	npm install cookie-sessions
-	npm install body-parser
-	npm install ejs
+## Install the three modules :
 
-How to run:
-	node web.js
+	- npm install express cookie-sessions body-parser ejs
+
+## How to use :
+
+	- node web.js
